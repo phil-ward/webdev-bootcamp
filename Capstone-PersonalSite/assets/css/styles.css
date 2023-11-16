@@ -1,0 +1,100 @@
+body {
+    --fa-primary-color: #FF9900;
+}
+
+footer {
+    padding: 40px 0 10px;
+    margin-top: 0;
+}
+
+.footer-icon {
+    padding: 20px 15px;
+}
+
+.profile-pic {
+    object-fit: cover;
+    width: 180px;
+    height: 225px;
+    border-radius: 100%;
+    padding: 20px 0;
+}
+
+/* Home Page */
+
+/* About Page */
+.media-img {
+    width: 140px;
+    margin-right: 1rem;
+}
+
+.media-about {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.about-text {
+    padding: 20px;
+}
+
+.media {
+    display: flex;
+    align-items: flex-start;
+}
+
+.body-right {
+    margin-left: 20px;
+}
+
+.feature-icon {
+    color: #FF9900;
+}
+
+
+/* Projects Page */
+/* Buttons */
+
+
+.custom {
+    color: #fff;
+    background-color: #FF9900 !important;
+    border-color: #FF9900 !important;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.custom:hover,
+.custom:focus {
+    color: #fff;
+    background-color: #FF9900 !important;
+    border-color: #FF9900 !important;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.custom:active {
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.custom-outline {
+    color: #FF9900 !important;
+    background-color: transparent;
+    background-image: none;
+    border-color: #FF9900 !important;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.custom-outline:hover,
+.custom-outline:focus {
+    color: #fff;
+    background-color: #FF9900;
+    border-color: #FF9900;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.custom-outline:active {
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
